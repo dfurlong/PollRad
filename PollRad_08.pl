@@ -54,8 +54,6 @@
 #	Rev 0.7 Feb 28, 2011	Added statistics output after chart
 #	Rev 0.8 Mar 01, 2011	Added Additional statistics after chart
 #
-#	This is a test of the Git source control program
-#
 #######################################################################################################################
 
 use warnings;
